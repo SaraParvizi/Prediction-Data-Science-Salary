@@ -37,16 +37,17 @@ It follows the complete data science lifecycle from business understanding to mo
     2.5 Evaluation
     Models were evaluated using the following metrics:
 
-   Mean Absolute Error (MAE)
+    Mean Absolute Error (MAE)
 
-   Accuracy Score
+    Accuracy Score
 
-   Confusion Matrix
+    Confusion Matrix
 
-   Classification Report
+    Classification Report
 
    2.6 Deployment
    Serialized the final trained model using pickle for reuse in applications.
+   
 3. Libraries Used:
     
 pandas
