@@ -4,7 +4,8 @@ This project aims to predict salary ranges for Data Science roles across differe
 It follows the complete data science lifecycle from business understanding to model deployment.
 
  2. Project Phases
-2.1 Business Understanding
+ 
+ 2.1 Business Understanding
 Identify salary trends for Data Science roles in the U.S. job market.
 
 2.2 Data Understanding
