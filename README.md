@@ -5,20 +5,20 @@ It follows the complete data science lifecycle from business understanding to mo
 
  2. Project Phases
  
- 2.1 Business Understanding
-Identify salary trends for Data Science roles in the U.S. job market.
+    2.1 Business Understanding
+    Identify salary trends for Data Science roles in the U.S. job market.
 
-2.2 Data Understanding
-Explore the structure and content of the dataset collected from Glassdoor job listings.
+    2.2 Data Understanding
+    Explore the structure and content of the dataset collected from Glassdoor job listings.
 
-2.3 Data Preparation (Cleaning & Preprocessing)
-Removed missing or invalid entries (e.g., -1 salaries, "Per Hour" values).
+    2.3 Data Preparation (Cleaning & Preprocessing)
+    Removed missing or invalid entries (e.g., -1 salaries, "Per Hour" values).
 
-Cleaned and parsed salary estimates.
+    Cleaned and parsed salary estimates.
 
-Extracted min, max, and average salary fields.
+    Extracted min, max, and average salary fields.
 
-Encoded categorical features for modeling.
+    Encoded categorical features for modeling.
 
 2.4 Modeling
 Trained and compared several machine learning models:
@@ -61,17 +61,17 @@ scikit-learn
 pickle
 
 4. Code Sections Overview
-4.1 Data Upload & Cleaning
-Load the dataset
+    4.1 Data Upload & Cleaning
+    Load the dataset
 
-Filter invalid salary entries
+    Filter invalid salary entries
 
-Clean and split salary fields into min, max, and average
+    Clean and split salary fields into min, max, and average
 
-Prepare features for machine learning
+    Prepare features for machine learning
 
-4.2 Feature Engineering & Modeling
-Split the dataset into training and testing sets
+    4.2 Feature Engineering & Modeling
+    Split the dataset into training and testing sets
 
 Implement and train the following models:
 
