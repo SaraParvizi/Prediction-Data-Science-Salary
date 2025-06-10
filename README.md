@@ -51,17 +51,17 @@ It follows the complete data science lifecycle from business understanding to mo
    
 3. Libraries Used:
     
-pandas
+    pandas
 
-numpy
+    numpy
 
-matplotlib
+    matplotlib
 
-seaborn
+    seaborn
 
-scikit-learn
+    scikit-learn
 
-pickle
+    pickle
 
 4. Code Sections Overview
     4.1 Data Upload & Cleaning
