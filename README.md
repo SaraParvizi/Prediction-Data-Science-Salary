@@ -1,9 +1,10 @@
 Data Science Salary Prediction Project:
- 1. Objective
+ 1. Objective:
+
 This project aims to predict salary ranges for Data Science roles across different U.S. states using real-world job listing data.
 It follows the complete data science lifecycle from business understanding to model deployment.
 
- 2. Project Phases
+ 2. Project Phases:
  
     2.1 Business Understanding
     Identify salary trends for Data Science roles in the U.S. job market.
@@ -47,7 +48,8 @@ Classification Report
 2.6 Deployment
 Serialized the final trained model using pickle for reuse in applications.
 
- 3. Libraries Used
+ 3. Libraries Used:
+    
 pandas
 
 numpy
