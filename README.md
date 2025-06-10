@@ -21,34 +21,33 @@ It follows the complete data science lifecycle from business understanding to mo
 
     Encoded categorical features for modeling.
 
-2.4 Modeling
-Trained and compared several machine learning models:
+    2.4 Modeling
+    Trained and compared several machine learning models:
 
-✅ Linear Regression
+    ✅ Linear Regression
 
-✅ Logistic Regression
+    ✅ Logistic Regression
 
-✅ K-Nearest Neighbors (KNN)
+    ✅ K-Nearest Neighbors (KNN)
 
-✅ Decision Tree
+    ✅ Decision Tree
 
-✅ Random Forest
+    ✅ Random Forest
 
-2.5 Evaluation
-Models were evaluated using the following metrics:
+    2.5 Evaluation
+    Models were evaluated using the following metrics:
 
-Mean Absolute Error (MAE)
+   Mean Absolute Error (MAE)
 
-Accuracy Score
+   Accuracy Score
 
-Confusion Matrix
+   Confusion Matrix
 
-Classification Report
+   Classification Report
 
-2.6 Deployment
-Serialized the final trained model using pickle for reuse in applications.
-
- 3. Libraries Used:
+   2.6 Deployment
+   Serialized the final trained model using pickle for reuse in applications.
+3. Libraries Used:
     
 pandas
 
@@ -87,16 +86,16 @@ Decision Tree
 
 Random Forest
 
-4.3 Model Evaluation
-Measure performance using:
+   4.3 Model Evaluation
+   Measure performance using:
 
-Accuracy Score
+   Accuracy Score
 
-Confusion Matrix
+   Confusion Matrix
 
-Classification Report
+   Classification Report
 
-MAE
+   MAE
 
 
 
