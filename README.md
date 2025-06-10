@@ -48,6 +48,7 @@ It follows the complete data science lifecycle from business understanding to mo
    2.6 Deployment
    Serialized the final trained model using pickle for reuse in applications.
    
+   
 3. Libraries Used:
     
 pandas
@@ -75,17 +76,17 @@ pickle
     4.2 Feature Engineering & Modeling
     Split the dataset into training and testing sets
 
-Implement and train the following models:
+    Implement and train the following models:
 
-Linear Regression
+    Linear Regression
 
-Logistic Regression
+    Logistic Regression
 
-K-Nearest Neighbors
+    K-Nearest Neighbors
 
-Decision Tree
+   Decision Tree
 
-Random Forest
+   Random Forest
 
    4.3 Model Evaluation
    Measure performance using:
